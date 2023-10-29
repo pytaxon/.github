@@ -1,2 +1,1 @@
-# Pytaxon
-## Aplicação open source de auxílio à pesquisa para identificação de erros e correção de nomenclatura taxonômica das espécies da biodiversidade
+# Pytaxon: um pacote Python projetado para identificar e corrigir erros em nomes científicos e táxons de espécies
